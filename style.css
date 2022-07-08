@@ -1,0 +1,11 @@
+.bodyBackground{
+    -fx-background-image: url("back.jpg");
+    -fx-background-size: 100% 100%;
+}
+
+.button:hover{
+    -fx-background-color:  #16A596;
+    -fx-cell-size: 17px;
+    -fx-cursor: hand;
+}
+
